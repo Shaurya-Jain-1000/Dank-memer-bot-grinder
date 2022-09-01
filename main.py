@@ -98,7 +98,6 @@ def basic_cmd():
     click(clickx, clicky, 1)
     write('/highlow')
     click(clickx, clicky, 1)
-    run_2('gamble', '1500')
     depmax()
     to_buy = random.choice(rand_item)
     # write(f'/buy {to_buy}', 0)
