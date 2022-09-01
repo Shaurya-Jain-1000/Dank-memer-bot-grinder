@@ -1,5 +1,5 @@
 # Hi Guys Zappricious Here!
-# This is a program that auto-grinds coins
+# This is a program that auto-grinds coins and items!
 
 import pyautogui
 import time
