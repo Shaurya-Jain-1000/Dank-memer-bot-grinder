@@ -114,7 +114,7 @@ while running:
     basic_cmd()
     schedule.run_pending()
     click(953,649)
-    time.sleep(7)
+    time.sleep(10)
 
 
 
